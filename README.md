@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rushindhra
-- 👀 I’m interested in programming and to develop my communication skills 
-- 🌱 I’m currently learning C++ coding language from you tube 
+
 
   
 
